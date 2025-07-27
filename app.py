@@ -55,6 +55,9 @@ app = dash.Dash(
     suppress_callback_exceptions=True
 )
 
+# for the server
+server = app.server
+
 # add the access link for multiple pages 
 app.layout = html.Div([
     dcc.Location(id="url", refresh=False),
