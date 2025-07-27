@@ -1,0 +1,32 @@
+{
+  "Banbhore": {
+    "total_students": 877,
+    "active_students": 543,
+    "dropout_rate": 38.08
+  },
+  "Hyderabad": {
+    "total_students": 3846,
+    "active_students": 1805,
+    "dropout_rate": 53.07
+  },
+  "Karachi": {
+    "total_students": 11714,
+    "active_students": 4415,
+    "dropout_rate": 62.31
+  },
+  "Larkana": {
+    "total_students": 896,
+    "active_students": 700,
+    "dropout_rate": 21.88
+  },
+  "Mirpurkhas": {
+    "total_students": 2421,
+    "active_students": 1458,
+    "dropout_rate": 39.78
+  },
+  "Sukkur": {
+    "total_students": 781,
+    "active_students": 585,
+    "dropout_rate": 25.1
+  }
+}

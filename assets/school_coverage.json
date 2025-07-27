@@ -1,0 +1,30 @@
+{
+  "districts_covered": [
+    "\tMalir",
+    "Hyderabad",
+    "Jamshoro",
+    "Karachi East",
+    "Karachi West",
+    "Kemari",
+    "Khairpur",
+    "Korangi",
+    "Larkana",
+    "Malir",
+    "Mirpurkhas",
+    "Orangi",
+    "Sehwan",
+    "Thatta",
+    "missing"
+  ],
+  "num_districts": 15,
+  "divisions_covered": [
+    "Banbhore",
+    "Hyderabad",
+    "Karachi",
+    "Larkana",
+    "Mirpurkhas",
+    "Sehwan",
+    "Sukkur"
+  ],
+  "num_divisions": 7
+}

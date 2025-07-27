@@ -1,0 +1,32 @@
+[
+  {
+    "Division": "Banbhore",
+    "median_final_index": 8,
+    "status": "Good"
+  },
+  {
+    "Division": "Hyderabad",
+    "median_final_index": 1,
+    "status": "Good"
+  },
+  {
+    "Division": "Karachi",
+    "median_final_index": -6,
+    "status": "Average"
+  },
+  {
+    "Division": "Larkana",
+    "median_final_index": -3,
+    "status": "Average"
+  },
+  {
+    "Division": "Mirpurkhas",
+    "median_final_index": 8,
+    "status": "Good"
+  },
+  {
+    "Division": "Sukkur",
+    "median_final_index": 2,
+    "status": "Good"
+  }
+]

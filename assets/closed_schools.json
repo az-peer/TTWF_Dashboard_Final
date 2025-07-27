@@ -1,0 +1,34 @@
+[
+  {
+    "School_Id": "102-MS-KHI-MLR",
+    "School_Name": "Pathan Colony"
+  },
+  {
+    "School_Id": "113-MS-KHI-MLR",
+    "School_Name": "Qadir Nagar"
+  },
+  {
+    "School_Id": "116-MS-KHI-MLR",
+    "School_Name": "Haji Ibrahim Village"
+  },
+  {
+    "School_Id": "123-MS-KHI-KRG",
+    "School_Name": "Machi Para (IH)"
+  },
+  {
+    "School_Id": "124-MS-KHI-KRG",
+    "School_Name": "Muhammadani Para (IH)"
+  },
+  {
+    "School_Id": "137-IS-KHI-KE",
+    "School_Name": "SMB School Mansira Colony"
+  },
+  {
+    "School_Id": "142-MS-KHI-MLR",
+    "School_Name": "Gulshan Pepri Village "
+  },
+  {
+    "School_Id": "161-MS-HYD-HYD",
+    "School_Name": "Habib Shah Colony"
+  }
+]

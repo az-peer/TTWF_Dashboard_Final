@@ -1,0 +1,368 @@
+{
+  "Hyderabad": [
+    {
+      "name": "Rajib Anmol Education System",
+      "school_id": "151-IS-HYD-JAM",
+      "lat": 67.79434204101562,
+      "long": 24.509580612182617
+    },
+    {
+      "name": "Habib Shah Colony",
+      "school_id": "161-MS-HYD-HYD",
+      "lat": 68.32327270507812,
+      "long": 25.390220642089844
+    },
+    {
+      "name": "Old Wahdat Colony",
+      "school_id": "164-MS-HYD-HYD",
+      "lat": 68.32740783691406,
+      "long": 25.378910064697266
+    },
+    {
+      "name": "Mir Fateh Muhammad Colony",
+      "school_id": "165-MS-HYD-HYD",
+      "lat": 68.32673645019531,
+      "long": 25.375869750976562
+    },
+    {
+      "name": "Kalhora Goth",
+      "school_id": "166-MS-HYD-HYD",
+      "lat": 68.36994171142578,
+      "long": 25.377899169921875
+    },
+    {
+      "name": "Nusrath Colony",
+      "school_id": "167-MS-HYD-HYD",
+      "lat": 68.37409973144531,
+      "long": 25.379640579223633
+    },
+    {
+      "name": "Hali Nagar",
+      "school_id": "168-MS-HYD-HYD",
+      "lat": 68.37596893310547,
+      "long": 25.378080368041992
+    },
+    {
+      "name": "American Quarter",
+      "school_id": "169-MS-HYD-HYD",
+      "lat": 68.38459014892578,
+      "long": 25.377910614013672
+    },
+    {
+      "name": "Baban Shah Colony",
+      "school_id": "170-MS-HYD-HYD",
+      "lat": 68.33609008789062,
+      "long": 25.353160858154297
+    }
+  ],
+  "Karachi": [
+    {
+      "name": "Dani Partho",
+      "school_id": "101-MS-KHI-MLR",
+      "lat": 67.29705047607422,
+      "long": 24.8734130859375
+    },
+    {
+      "name": "Pathan Colony",
+      "school_id": "102-MS-KHI-MLR",
+      "lat": 67.30363464355469,
+      "long": 24.515369415283203
+    },
+    {
+      "name": "Dur Muhammad",
+      "school_id": "103-MS-KHI-MLR",
+      "lat": 67.17154693603516,
+      "long": 24.577789306640625
+    },
+    {
+      "name": "Ghazi G Block",
+      "school_id": "104-MS-KHI-MLR",
+      "lat": 67.08425903320312,
+      "long": 24.950149536132812
+    },
+    {
+      "name": "DIL FPT",
+      "school_id": "105-IS-KHI-KW",
+      "lat": 67.00884246826172,
+      "long": 24.982839584350586
+    },
+    {
+      "name": "DIL J2",
+      "school_id": "106-IS-KHI-KW",
+      "lat": 66.99517059326172,
+      "long": 24.992300033569336
+    },
+    {
+      "name": "Allah Bukhsh Jhokiyo",
+      "school_id": "108-MS-KHI-MLR",
+      "lat": 67.19243621826172,
+      "long": 24.911270141601562
+    },
+    {
+      "name": "Shahjahan Arfani Goth",
+      "school_id": "109-MS-KHI-MLR",
+      "lat": 67.27581024169922,
+      "long": 24.85909080505371
+    },
+    {
+      "name": "Yousuf Arfani Goth",
+      "school_id": "110-MS-KHI-MLR",
+      "lat": 67.25668334960938,
+      "long": 24.514720916748047
+    },
+    {
+      "name": "Hammar Khan Kalmati",
+      "school_id": "111-MS-KHI-MLR",
+      "lat": 67.25881958007812,
+      "long": 24.51997947692871
+    },
+    {
+      "name": "Peer Bux Kalmati",
+      "school_id": "112-MS-KHI-MLR",
+      "lat": 67.26083374023438,
+      "long": 24.85944938659668
+    },
+    {
+      "name": "Qadir Nagar",
+      "school_id": "113-MS-KHI-MLR",
+      "lat": 67.4604721069336,
+      "long": 24.513349533081055
+    },
+    {
+      "name": "Shafi Muhammad Goth",
+      "school_id": "114-MS-KHI-MLR",
+      "lat": 67.25483703613281,
+      "long": 24.508909225463867
+    },
+    {
+      "name": "Gh:Muhammad Baloch",
+      "school_id": "115-MS-KHI-MLR",
+      "lat": 67.26026153564453,
+      "long": 24.504789352416992
+    },
+    {
+      "name": "Haji Ibrahim Village",
+      "school_id": "116-MS-KHI-MLR",
+      "lat": 67.26220703125,
+      "long": 24.489389419555664
+    },
+    {
+      "name": "Haji Khan Zorani",
+      "school_id": "117-MS-KHI-MLR",
+      "lat": 67.1335220336914,
+      "long": 24.51055908203125
+    },
+    {
+      "name": "Jandar Kalmati Goth",
+      "school_id": "118-MS-KHI-MLR",
+      "lat": 67.26065826416016,
+      "long": 24.854150772094727
+    },
+    {
+      "name": "Murad Khoso Goth",
+      "school_id": "119-MS-KHI-MLR",
+      "lat": 67.40930938720703,
+      "long": 24.815479278564453
+    },
+    {
+      "name": "Dabla Para (Rehri Goth)",
+      "school_id": "120-MS-KHI-KRG",
+      "lat": 67.22093963623047,
+      "long": 24.490299224853516
+    },
+    {
+      "name": "Machi Para (IH)",
+      "school_id": "123-MS-KHI-KRG",
+      "lat": 67.08303833007812,
+      "long": 24.47602081298828
+    },
+    {
+      "name": "Muhammadani Para (IH)",
+      "school_id": "124-MS-KHI-KRG",
+      "lat": 67.0875015258789,
+      "long": 24.509239196777344
+    },
+    {
+      "name": "Abbas Town",
+      "school_id": "129-MS-KHI-MLR",
+      "lat": 67.21373748779297,
+      "long": 24.50773048400879
+    },
+    {
+      "name": "Haji Allah Wasayo",
+      "school_id": "130-MS-KHI-MLR",
+      "lat": 67.2031021118164,
+      "long": 24.512670516967773
+    },
+    {
+      "name": "Haq Bahu Muhalla",
+      "school_id": "131-MS-KHI-MLR",
+      "lat": 67.21996307373047,
+      "long": 24.508140563964844
+    },
+    {
+      "name": "Ali Bux Mari Goth",
+      "school_id": "132-MS-KHI-MLR",
+      "lat": 67.19806671142578,
+      "long": 24.51420021057129
+    },
+    {
+      "name": "Rafiq Colony - Eido Goth",
+      "school_id": "133-MS-KHI-MLR",
+      "lat": 67.20268249511719,
+      "long": 24.508119583129883
+    },
+    {
+      "name": "Ali Muhammad Goth",
+      "school_id": "134-MS-KHI-MLR",
+      "lat": 67.2001724243164,
+      "long": 24.8505802154541
+    },
+    {
+      "name": "GCT Hilal School Bilal Colony",
+      "school_id": "135-IS-KHI-KE",
+      "lat": 67.13407135009766,
+      "long": 24.8974609375
+    },
+    {
+      "name": "GCT Hilal School Jokhio Goth",
+      "school_id": "136-IS-KHI-KE",
+      "lat": 67.1817626953125,
+      "long": 24.856990814208984
+    },
+    {
+      "name": "SMB School Mansira Colony",
+      "school_id": "137-IS-KHI-KE",
+      "lat": 67.1919937133789,
+      "long": 24.9672908782959
+    },
+    {
+      "name": "SMB Lal Shahbaz ",
+      "school_id": "138-IS-KHI-KW",
+      "lat": 66.97412109375,
+      "long": 24.972379684448242
+    },
+    {
+      "name": "SMB FAS Ghaziabad",
+      "school_id": "139-IS-KHI-KW",
+      "lat": 66.98491668701172,
+      "long": 24.9419002532959
+    },
+    {
+      "name": "Gulshan Pepri Village ",
+      "school_id": "142-MS-KHI-MLR",
+      "lat": 67.22234344482422,
+      "long": 24.512590408325195
+    },
+    {
+      "name": "Sabo Kalmati Goth",
+      "school_id": "145-MS-KHI-MLR",
+      "lat": 67.25450897216797,
+      "long": 24.508800506591797
+    },
+    {
+      "name": "Sumra Colony",
+      "school_id": "146-MS-KHI-MLR",
+      "lat": 67.25953674316406,
+      "long": 24.491119384765625
+    },
+    {
+      "name": "Ilyas Goth",
+      "school_id": "147-MS-KHI-KRG",
+      "lat": 67.11505126953125,
+      "long": 24.8079891204834
+    },
+    {
+      "name": "Usman Dawood Goth",
+      "school_id": "148-MS-KHI-KRG",
+      "lat": 67.19125366210938,
+      "long": 24.509029388427734
+    },
+    {
+      "name": "Ismail Goth",
+      "school_id": "152-MS-KHI-KRG",
+      "lat": 67.11573791503906,
+      "long": 24.510530471801758
+    },
+    {
+      "name": "Peer Bux Goth",
+      "school_id": "160-MS-KHI-MLR",
+      "lat": 67.1805191040039,
+      "long": 25.3753604888916
+    },
+    {
+      "name": "Foundation Assisted Mossani 2 para Rehri Goth School",
+      "school_id": "201-IS-KHI-MLR",
+      "lat": 67.23467254638672,
+      "long": 24.97241973876953
+    },
+    {
+      "name": "Foundation Assisted Khan Muhammad Goth School",
+      "school_id": "203-IS-KHI-KE",
+      "lat": 67.15338134765625,
+      "long": 24.848649978637695
+    },
+    {
+      "name": "Foundation Assisted Zafar Town - I School",
+      "school_id": "202-IS-KHI-MLR",
+      "lat": 67.22899627685547,
+      "long": 24.990680694580078
+    },
+    {
+      "name": "Foundation Assisted Abdullah Shah Ghazi Goth School",
+      "school_id": "204-IS-KHI-MLR",
+      "lat": 67.12618255615234,
+      "long": 24.939559936523438
+    },
+    {
+      "name": "APWA's School Orangi 10",
+      "school_id": "205-IS-KHI-ORG",
+      "lat": 66.99410247802734,
+      "long": 24.94915008544922
+    },
+    {
+      "name": "Foundation Assisted Qasba Islamia Colony 2 School",
+      "school_id": "206-IS-KHI-ORG",
+      "lat": 67.02951049804688,
+      "long": 24.849720001220703
+    },
+    {
+      "name": "Tamir-e-Millat Public Secondary School",
+      "school_id": "207-IS-KHI-KRG",
+      "lat": 67.11177062988281,
+      "long": 24.864349365234375
+    },
+    {
+      "name": "Foundation Assisted Qazafi Town School",
+      "school_id": "210-IS-KHI-KRG",
+      "lat": 67.22442626953125,
+      "long": 24.8452205657959
+    },
+    {
+      "name": "Foundation Assisted Ramzan Gabol",
+      "school_id": "211-IS-KHI-KRG",
+      "lat": 67.22879791259766,
+      "long": 26.43239974975586
+    }
+  ],
+  "Sehwan": [
+    {
+      "name": "Foundation Assisted School Qila Sehwan",
+      "school_id": "212-IS-SWN",
+      "lat": 67.85664367675781,
+      "long": 26.35420036315918
+    },
+    {
+      "name": "Wisdom Elementary School",
+      "school_id": "213-IS-SWN",
+      "lat": 67.46320343017578,
+      "long": 26.496379852294922
+    },
+    {
+      "name": "Star Awami Secondary School",
+      "school_id": "214-IS-SWN",
+      "lat": 67.74976348876953,
+      "long": 26.6055908203125
+    }
+  ]
+}

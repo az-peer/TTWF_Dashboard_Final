@@ -1,0 +1,32 @@
+[
+  {
+    "Division": "Banbhore",
+    "DLI": 36,
+    "status": "Average"
+  },
+  {
+    "Division": "Hyderabad",
+    "DLI": 46,
+    "status": "Average"
+  },
+  {
+    "Division": "Karachi",
+    "DLI": 41,
+    "status": "Average"
+  },
+  {
+    "Division": "Larkana",
+    "DLI": 43,
+    "status": "Average"
+  },
+  {
+    "Division": "Mirpurkhas",
+    "DLI": 35,
+    "status": "Average"
+  },
+  {
+    "Division": "Sukkur",
+    "DLI": 47,
+    "status": "Average"
+  }
+]

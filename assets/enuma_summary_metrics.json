@@ -1,0 +1,26 @@
+{
+  "num_inactive_schools": 7,
+  "inactive_schools": [
+    "113-MS-KHI-MLR",
+    "102-MS-KHI-MLR",
+    "124-MS-KHI-KRG",
+    "123-MS-KHI-KRG",
+    "142-MS-KHI-MLR",
+    "116-MS-KHI-MLR",
+    "021-IS-SWT-BNR"
+  ],
+  "total_users": 23806,
+  "num_schools_not_in_al": 2,
+  "schools_not_in_all": [
+    "MS-KHI-MLR-102",
+    "MS-KHI-MLR-101"
+  ],
+  "num_schools_not_in_curr": 2,
+  "schools_not_in_curr": [
+    "MS-KHI-MLR-102",
+    "MS-KHI-MLR-101"
+  ],
+  "active_users": 10917,
+  "num_active_schools": 114,
+  "active_schools": 114
+}

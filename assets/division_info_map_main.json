@@ -1,0 +1,79 @@
+{
+  "Karachi": {
+    "total_schools": 79,
+    "status_counts": {
+      "Active": 62,
+      "Closed": 7,
+      "missing": 10
+    },
+    "type_counts": {
+      "InSchool": 21,
+      "MicroSchool": 58
+    },
+    "active_student_count": 10325
+  },
+  "Hyderabad": {
+    "total_schools": 23,
+    "status_counts": {
+      "Active": 20,
+      "Closed": 1,
+      "missing": 2
+    },
+    "type_counts": {
+      "InSchool": 1,
+      "MicroSchool": 22
+    },
+    "active_student_count": 2398
+  },
+  "Mirpurkhas": {
+    "total_schools": 17,
+    "status_counts": {
+      "Active": 16,
+      "missing": 1
+    },
+    "type_counts": {
+      "MicroSchool": 17
+    },
+    "active_student_count": 949
+  },
+  "Sehwan": {
+    "total_schools": 4,
+    "status_counts": {
+      "Active": 4
+    },
+    "type_counts": {
+      "InSchool": 4
+    },
+    "active_student_count": 0
+  },
+  "Banbhore": {
+    "total_schools": 5,
+    "status_counts": {
+      "Active": 5
+    },
+    "type_counts": {
+      "MicroSchool": 5
+    },
+    "active_student_count": 543
+  },
+  "Larkana": {
+    "total_schools": 7,
+    "status_counts": {
+      "Active": 7
+    },
+    "type_counts": {
+      "MicroSchool": 7
+    },
+    "active_student_count": 524
+  },
+  "Sukkur": {
+    "total_schools": 6,
+    "status_counts": {
+      "Active": 6
+    },
+    "type_counts": {
+      "MicroSchool": 6
+    },
+    "active_student_count": 386
+  }
+}
